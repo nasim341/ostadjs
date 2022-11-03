@@ -3,6 +3,6 @@
 import country from "./countries.js";
 
 country.map((items, i) => {
-    let show = `Country name is: ${items.code}`
+    let show = `Country code is: ${items.code}`
     console.log(show);
 });
