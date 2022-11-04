@@ -1,9 +1,9 @@
 /*Import Country Name and Country Code*/
 
-import country from "./countries.js";
+import bd from "./bangladesh.js";
 
-country.map((items, i) => {
-    let show = `Country code is: ${items.code}`
+bd.map((list) => {
+    let show = `All district name is: ${list.district}`
     console.log(show);
 });
 /*Terminal comand -npm start*/
