@@ -1,4 +1,4 @@
-/*Import Country Name and Country Code*/
+/*Import all districts name*/
 
 import bd from "./bangladesh.js";
 

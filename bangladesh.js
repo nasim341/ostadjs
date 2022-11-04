@@ -1,6 +1,6 @@
 /*Bangladesh All Districts */
 
-var Bangladesh = [
+var bangladesh = [
         { district: 'Barguna', area: '1831', population: '892,781' },
         { district: 'Barisal', area: '2785', population: '2,324,310' },
         { district: 'Bhola', area: '3403', population: '1,776,795' },
@@ -67,4 +67,4 @@ var Bangladesh = [
 
     ]
     /*Using default module*/
-export default Bangladesh;
+export default bangladesh;
